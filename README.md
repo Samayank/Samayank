@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samayank
-- 👀 I’m interested in learning programming, about AI and Robotics.
+- 👀 I’m interested in learning programming and, about AI and Robotics.
 - 🌱 I’m currently learning JAVA.
 - 📫 How to reach me: @samayank_goel on Instagram
                       @Samayank Goel on LinkedIn
